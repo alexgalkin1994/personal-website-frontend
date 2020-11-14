@@ -196,4 +196,6 @@ $RECYCLE.BIN/
 
 # Custom
 
+node_modules/
+
 .vscode
